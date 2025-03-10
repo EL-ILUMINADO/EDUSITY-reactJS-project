@@ -34,12 +34,12 @@ function App() {
             <Campus />
           </div>
         </section>
-        <section className="section-about">
+        {/* <section className="section-about">
           <div className="section-about-container">
             <Title subtitle="Testimonials" title="What Our Students Say" />
             <Testimonials />
           </div>
-        </section>
+        </section> */}
         <section className="section-about section-contact">
           <div className="section-about-container">
             <Title subtitle="Contact us" title="Get in Touch With Edusity" />
